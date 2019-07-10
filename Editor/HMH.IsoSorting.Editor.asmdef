@@ -1,0 +1,19 @@
+{
+    "name": "HMH.IsoSorting.Editor",
+    "references": [
+        "GUID:f4fd6cb9546b9b043b4e25688f86c0f3",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

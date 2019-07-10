@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+    xmlns:upm="UnityEditor.PackageManager.UI"
+
+xsi:noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd"
+xsi:schemaLocation="
+                        UnityEngine.UIElements ../../UIElementsSchema/UnityEngine.UIElements.xsd
+                        UnityEditor.UIElements ../../UIElementsSchema/UnityEditor.UIElements.xsd
+                        UnityEditor.PackageManager.UI ../../UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+"
+>
+  <editor:PropertyField binding-path="_position" label="Position" name="Position"/>
+  <editor:PropertyField binding-path="_size" label="Size" name="Size"/>
+  <editor:PropertyField binding-path="_spriteRenderer" label="SpriteRenderer" />
+  <editor:PropertyField binding-path="_screenMin" label="Screen position min" focusable="false"/>
+  <editor:PropertyField binding-path="_screenMax" label="Screen position max" focusable="false"/>
+  <editor:PropertyField binding-path="_entity" label="Entity linked" focusable="false"/>
+  <editor:PropertyField binding-path="_spatialHashingIndex" label="Spatial hashing index" focusable="false"/>
+  <editor:PropertyField binding-path="_depth" label="Depth" focusable="false"/>
+  <editor:PropertyField binding-path="_showLink" label="Show link" focusable="false"/>
+</engine:UXML>
