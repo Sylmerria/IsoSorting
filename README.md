@@ -11,7 +11,7 @@ You can sort by depth or by order in layer.
 # Flow
 ![alt text](https://zupimages.net/up/19/28/dpxr.png)
 
-#Sorting by depth or by order by layer
+# Sorting by depth or by order by layer
 Sorting by default is based on order in layer.
 If you want use depth sorting, add ```SORTBYDEPTH``` to your compilation symbol
 
