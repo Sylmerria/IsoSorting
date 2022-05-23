@@ -2,6 +2,8 @@
 Isometric sorting system for Unity using ECS. 
 You can sort by depth or by order in layer.
 
+EDIT : using an old version of Entities package and has a bug during some sorting cituation, feel free to commit a fix
+
 44000 sprites are sorted in ~12ms in parallel.
 
 # How to add to your project
